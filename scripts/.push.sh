@@ -24,4 +24,4 @@ git commit -m "$COMMENT"
 git push origin "$BRANCH"
 
 # 输出完成信息
-echo "\n提交完成！分支: $BRANCH，提交信息: $COMMENT"
+echo -e "\n提交完成！分支: $BRANCH，提交信息: $COMMENT"
