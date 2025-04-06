@@ -7,5 +7,5 @@ chmod +x $HOME/.*.sh
 
 设置git
 
-git config --global user.email "9830131@qq.com"
+git config --global user.email "9830131@qq.com" && 
 git config --global user.name "李艺"
