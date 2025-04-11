@@ -1,5 +1,7 @@
 #!/bin/bash
 
+"$HOME/.pull.sh"
+
 # 获取当前分支名称
 BRANCH=$(git branch --show-current)
 

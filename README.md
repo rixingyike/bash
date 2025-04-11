@@ -16,6 +16,7 @@ Git Bash会自动加载bash_profile，并间接加载bashrc配置。
 
 ```
 cp -rf scripts/.*.sh ~/
+cp ./.bashrc ~/
 chmod +x $HOME/.*.sh
 ```
 
